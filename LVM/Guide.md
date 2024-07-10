@@ -34,7 +34,3 @@ The Auto LVM Setup Script automates the setup of Logical Volume Management (LVM)
 4. **Follow Prompts:** Respond to the script prompts to configure LVM according to your requirements.
 5. **Review and Confirm:** Review the changes proposed by the script before proceeding.
 6. **Complete Setup:** Once the script completes, verify the setup by checking LVs and mounts.
-
----
-
-This Markdown content outlines the purpose, requirements, flow, and usage instructions for your Auto LVM Setup Script. Adjust any details as per your specific script implementation and preferences.
